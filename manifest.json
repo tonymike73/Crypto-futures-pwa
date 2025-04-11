@@ -1,0 +1,10 @@
+
+{
+  "name": "Crypto Futures Calculator",
+  "short_name": "FuturesCalc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Calculate crypto futures risk, reward and liquidation.",
+  "icons": []
+}
